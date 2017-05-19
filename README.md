@@ -1,5 +1,9 @@
 # idris-lawvre-theories-monad
+adapted from: http://gallium.inria.fr/blog/lawvere-theories-and-monads/
 
+todo:
+
+- [ ] Convert this agda to idris
 
 ```agda
 module Monad where
